@@ -42,5 +42,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For questions, suggestions, or issues, please open an issue on GitHub or contact the project maintainers. We'd love to hear from you!
 
 ---
+https://www.veed.io/view/35d198e9-8351-4ff1-9cca-9138c6daa7ca?panel=share
 
 Thank you for using InsightIQ Bot! We hope it helps you gain valuable insights from your 10K filings analysis.
